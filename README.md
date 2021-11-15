@@ -4,6 +4,8 @@
 
 This repository contains a simple example iOS app that displays nutrition information for any text input. It queries the API Ninjas Nutrition API to get nutrition data and uses SwiftUI to render and display the results.
 
+**You must have a valid API Ninjas API Key to use the API. You can get a free API key from [https://api-ninjas.com/register](https://api-ninjas.com/register)**
+
 This example app introduces the following technologies/concepts:
 - XCode
 - Swift
