@@ -7,7 +7,7 @@ This repository contains a simple example iOS app that displays nutrition inform
 **You must have a valid API Ninjas API Key to use the API. You can get a free API key from [https://api-ninjas.com/register](https://api-ninjas.com/register)**
 
 This example app introduces the following technologies/concepts:
-- XCode
+- Xcode
 - Swift
 - SwiftUI toolkit
 - Making API Calls and parsing the response in Swift
