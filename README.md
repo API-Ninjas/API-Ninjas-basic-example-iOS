@@ -14,6 +14,10 @@ This example app introduces the following technologies/concepts:
 
 Browse the full list of APIs from API Ninjas [here](https://api-ninjas.com/api).
 
+## Getting Started
+
+Once you download the code, open `NutritionViewer.xcodeproj` in XCode and click the run button using either the simulator or your connected device.
+
 ### License
 
 Licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
