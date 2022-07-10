@@ -1,6 +1,6 @@
 # API Ninjas iOS Example App (Nutrition Viewer)
 
-<img src="https://s3.us-west-2.amazonaws.com/api-ninjas.com/images/basic_example_ios_screenshot.png" alt="Screenshot" width="250"/>
+<img src="https://api-ninjas.com/images/examples/basic_ios_app_7.png" alt="Screenshot" width="250"/>
 
 This repository contains a simple example iOS app that displays nutrition information for any text input. It queries the API Ninjas Nutrition API to get nutrition data and uses SwiftUI to render and display the results.
 
